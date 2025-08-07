@@ -2,7 +2,6 @@
 #define SUDOKU_H
 #include <vector>
 #include <string>
-
 // Functions relating to the dancing links component of algorithmX
 namespace dl
 {
