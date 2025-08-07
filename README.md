@@ -1,7 +1,7 @@
 # Sudoku
 
 Sudoku solver written using Donald Knuth's AlgorithmX with dancing links, see [paper](https://arxiv.org/pdf/cs/0011047.pdf).
-Capable of sub 10ms solutions.
+Capable of sub 5s solutions.
 
 ![Solving NYTimes Hard puzzle](https://raw.githubusercontent.com/richhaar/DancingLinksSudoku/main/img/sudoku.png)
 
